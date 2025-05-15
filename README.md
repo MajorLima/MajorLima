@@ -2,7 +2,7 @@
 
 **`Data Analyst | Business Intelligence`**
 
-Olá! O meu nome é Ayrise sou licenciada em Gestão pela Universidade Autónoma de Lisboa. Depois de uma breve experiência em Recursos Humanos, decidi seguir um caminho mais ligado à tecnologia e análise de dados. Fiz formações em programação e Business Intelligence e, atualmente, estou a concluir o mestrado em Ciência de Dados no Politécnico de Leiria.
+Olá! O meu nome é Ayrise sou licenciada em Gestão pela Universidade Autónoma de Lisboa. Depois de uma breve experiência em Recursos Humanos, decidi seguir um caminho mais ligado à tecnologia e análise de dados. Fiz formações em programação C/C# e Business Intelligence e, atualmente, estou a concluir o mestrado em Ciência de Dados no Politécnico de Leiria.
 
 Durante o mestrado, participei em projetos práticos com ferramentas como SQL Server, Power BI, Python, R, MySQL, MongoDB e RPA.
 
