@@ -11,6 +11,7 @@ Realizei um estágio de 1040 horas na Trigenius - Tecnologias de Informação, S
 Neste repositório, partilho alguns dos projetos que desenvolvi ao longo do meu percurso. 🚀
 
 
+
 ### 🤖 Linguagens e Tecnologias
 
 <img 
