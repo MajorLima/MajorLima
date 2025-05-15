@@ -6,7 +6,7 @@ Olá! O meu nome é Ayrise sou licenciada em Gestão pela Universidade Autónoma
 
 Durante o mestrado, participei em projetos práticos com ferramentas como SQL Server, Power BI, Python, R, MySQL, MongoDB e RPA.
 
-Realizei um estágio de 1040 horas na Trigenius - Tecnologias de Informação, SA, onde fui responsável por criar processos de ETL em SQL Server com dados do Primavera e desenvolver dashboards e reports em Power BI. O estágio foi bastante autónomo e desafiador, tive contacto direto com a equipa para definir requisitos e, no final, o trabalho foi valorizado ao ponto de ser usado como modelo para outros clientes.
+Realizei um estágio de 1040 horas, onde fui responsável por criar processos de ETL em SQL Server com dados do Primavera e desenvolver dashboards e reports em Power BI. O estágio foi bastante autónomo e desafiador, tive contacto direto com a equipa para definir requisitos e, no final, o trabalho foi valorizado ao ponto de ser usado como modelo para outros clientes.
 
 Neste repositório, partilho alguns dos projetos que desenvolvi ao longo do meu percurso. 🚀
 <a
