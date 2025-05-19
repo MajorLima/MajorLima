@@ -25,11 +25,11 @@ Neste repositório, partilho alguns dos projetos que desenvolvi ao longo do meu 
 />
 <img 
     align="left" 
-    alt="PowerBI" 
-    title="PowerBI"
+    alt="Power BI" 
+    title="Power BI"
     width="30px" 
     style="padding-right: 10px;" 
-    src="Images/icons8-power-bi-480.png" 
+    src="Images/icons8-poder-bi-2021-480.png" 
 />
 
 <br/>
