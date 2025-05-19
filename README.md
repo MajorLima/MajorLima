@@ -35,22 +35,26 @@ Neste repositório, partilho alguns dos projetos que desenvolvi ao longo do meu 
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Dashboards
+#### Dashboard 1
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis velit lectus, tristique eget tempus ut, gravida eget ipsum. Integer id nunc tempus, congue orci sit amet, tincidunt justo. Maecenas elementum, orci non pulvinar fringilla, mi lorem efficitur ante, at placerat nibh nibh at ligula. Sed sed leo id libero fermentum blandit. Nulla id enim non dolor egestas dignissim. Phasellus fermentum ligula eget risus vulputate consequat.Suspendisse euismod dui odio, at pulvinar eros consectetur eget. 
 
-<p>
+In pharetra ultricies ligula ut maximus. Integer vulputate posuere dolor, et rutrum quam ultricies eu. Donec ultrices lacinia risus, sed gravida leo facilisis id. 
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
+    align="Center" 
+    alt="Dashboard 1" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="Dashboard/business-dashboard-example.png" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+#### Dashboard 2
+Aenean molestie tellus odio, sed bibendum mi scelerisque ultrices. Aenean interdum, metus eget malesuada elementum, enim magna vulputate massa, vitae dictum massa urna eget diam. Morbi pulvinar elit nulla, sit amet egestas sapien volutpat faucibus. Nulla laoreet diam ac porttitor posuere. Praesent mollis tellus nisi, et scelerisque quam tincidunt sed. 
+
+Duis accumsan ipsum turpis, non facilisis odio finibus non. Proin dapibus, nibh quis commodo commodo, leo turpis porttitor leo, et sollicitudin ante ipsum quis diam. Mauris eu mattis nulla, eu placerat urna. Duis condimentum tempus ipsum. Aenean aliquet, libero vel porttitor eleifend, felis diam vestibulum odio, ac viverra neque felis in sapien. Sed bibendum vestibulum mi vitae auctor. In mollis lobortis lectus. Morbi pulvinar, risus dapibus porttitor tincidunt, nibh ex imperdiet nulla, ut interdum augue odio quis nulla. Donec tempor tristique luctus. 
+  <img 
+    align="Center" 
+    alt="Dashboard 2" 
+    style="padding-right: 10px;" 
+    src="Dashboard/business-dashboard-example.png" 
   />
 
-</p>
