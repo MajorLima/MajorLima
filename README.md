@@ -17,19 +17,11 @@ Neste repositório, partilho alguns dos projetos que desenvolvi ao longo do meu 
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="SQL Server"
+    title="SQL Server" 
     width="30px" 
     style="padding-right: 10px;" 
     src="Images/microsoft_sql_server-logo_brandlogos.net_wykhq.png" 
-/>
-<img 
-    align="left" 
-    alt="SQL Server" 
-    title="SQL Server"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="Images/icons8-power-bi-480.png" 
 />
 <img 
     align="left" 
@@ -37,7 +29,7 @@ Neste repositório, partilho alguns dos projetos que desenvolvi ao longo do meu 
     title="PowerBI"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    src="Images/icons8-power-bi-480.png" 
 />
 
 <br/>
