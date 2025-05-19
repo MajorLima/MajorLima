@@ -21,7 +21,7 @@ Neste repositório, partilho alguns dos projetos que desenvolvi ao longo do meu 
     title="HTML" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://github.com/MajorLima/MajorLima/blob/e47ac40ca31087125036b0e50db516153588ab4c/Images/Test/sql-server.png" 
+    src="Images/sql-server.png" 
 />
 <img 
     align="left" 
