@@ -21,7 +21,7 @@ Neste repositório, partilho alguns dos projetos que desenvolvi ao longo do meu 
     title="HTML" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="Images/sql-server.png" 
+    src="Images/microsoft-sql-server-logo-svgrepo-com.png" 
 />
 <img 
     align="left" 
