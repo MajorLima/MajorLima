@@ -35,7 +35,8 @@ Neste repositório, partilho alguns dos projetos que desenvolvi ao longo do meu 
 <br/>
 <br/>
 
-### 📊 Dashboards
+### 📊 Cliente 1
+
 #### Dashboard 1
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis velit lectus, tristique eget tempus ut, gravida eget ipsum. Integer id nunc tempus, congue orci sit amet, tincidunt justo. Maecenas elementum, orci non pulvinar fringilla, mi lorem efficitur ante, at placerat nibh nibh at ligula. Sed sed leo id libero fermentum blandit. Nulla id enim non dolor egestas dignissim. Phasellus fermentum ligula eget risus vulputate consequat.Suspendisse euismod dui odio, at pulvinar eros consectetur eget. 
 
@@ -44,17 +45,86 @@ In pharetra ultricies ligula ut maximus. Integer vulputate posuere dolor, et rut
     align="Center" 
     alt="Dashboard 1" 
     style="padding-right: 10px;" 
-    src="Dashboard/business-dashboard-example.png" 
+    src="Dashboard/Leading/Vendas_2.png" 
   />
-
 #### Dashboard 2
-Aenean molestie tellus odio, sed bibendum mi scelerisque ultrices. Aenean interdum, metus eget malesuada elementum, enim magna vulputate massa, vitae dictum massa urna eget diam. Morbi pulvinar elit nulla, sit amet egestas sapien volutpat faucibus. Nulla laoreet diam ac porttitor posuere. Praesent mollis tellus nisi, et scelerisque quam tincidunt sed. 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis velit lectus, tristique eget tempus ut, gravida eget ipsum. Integer id nunc tempus, congue orci sit amet, tincidunt justo. Maecenas elementum, orci non pulvinar fringilla, mi lorem efficitur ante, at placerat nibh nibh at ligula. Sed sed leo id libero fermentum blandit. Nulla id enim non dolor egestas dignissim. Phasellus fermentum ligula eget risus vulputate consequat.Suspendisse euismod dui odio, at pulvinar eros consectetur eget. 
 
-Duis accumsan ipsum turpis, non facilisis odio finibus non. Proin dapibus, nibh quis commodo commodo, leo turpis porttitor leo, et sollicitudin ante ipsum quis diam. Mauris eu mattis nulla, eu placerat urna. Duis condimentum tempus ipsum. Aenean aliquet, libero vel porttitor eleifend, felis diam vestibulum odio, ac viverra neque felis in sapien. Sed bibendum vestibulum mi vitae auctor. In mollis lobortis lectus. Morbi pulvinar, risus dapibus porttitor tincidunt, nibh ex imperdiet nulla, ut interdum augue odio quis nulla. Donec tempor tristique luctus. 
+In pharetra ultricies ligula ut maximus. Integer vulputate posuere dolor, et rutrum quam ultricies eu. Donec ultrices lacinia risus, sed gravida leo facilisis id. 
   <img 
     align="Center" 
-    alt="Dashboard 2" 
+    alt="Dashboard 1" 
     style="padding-right: 10px;" 
-    src="Dashboard/business-dashboard-example.png" 
+    src="Dashboard/Leading/Vendas_3.png" 
   />
 
+#### Dashboard 3
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis velit lectus, tristique eget tempus ut, gravida eget ipsum. Integer id nunc tempus, congue orci sit amet, tincidunt justo. Maecenas elementum, orci non pulvinar fringilla, mi lorem efficitur ante, at placerat nibh nibh at ligula. Sed sed leo id libero fermentum blandit. Nulla id enim non dolor egestas dignissim. Phasellus fermentum ligula eget risus vulputate consequat.Suspendisse euismod dui odio, at pulvinar eros consectetur eget. 
+
+In pharetra ultricies ligula ut maximus. Integer vulputate posuere dolor, et rutrum quam ultricies eu. Donec ultrices lacinia risus, sed gravida leo facilisis id. 
+  <img 
+    align="Center" 
+    alt="Dashboard 1" 
+    style="padding-right: 10px;" 
+    src="Dashboard/Leading/Vendas_5.png" 
+  />
+
+#### Dashboard 4
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis velit lectus, tristique eget tempus ut, gravida eget ipsum. Integer id nunc tempus, congue orci sit amet, tincidunt justo. Maecenas elementum, orci non pulvinar fringilla, mi lorem efficitur ante, at placerat nibh nibh at ligula. Sed sed leo id libero fermentum blandit. Nulla id enim non dolor egestas dignissim. Phasellus fermentum ligula eget risus vulputate consequat.Suspendisse euismod dui odio, at pulvinar eros consectetur eget. 
+
+In pharetra ultricies ligula ut maximus. Integer vulputate posuere dolor, et rutrum quam ultricies eu. Donec ultrices lacinia risus, sed gravida leo facilisis id. 
+  <img 
+    align="Center" 
+    alt="Dashboard 1" 
+    style="padding-right: 10px;" 
+    src="Dashboard/Leading/Vendas_7.png" 
+  />
+
+
+#### Dashboard 5
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis velit lectus, tristique eget tempus ut, gravida eget ipsum. Integer id nunc tempus, congue orci sit amet, tincidunt justo. Maecenas elementum, orci non pulvinar fringilla, mi lorem efficitur ante, at placerat nibh nibh at ligula. Sed sed leo id libero fermentum blandit. Nulla id enim non dolor egestas dignissim. Phasellus fermentum ligula eget risus vulputate consequat.Suspendisse euismod dui odio, at pulvinar eros consectetur eget. 
+
+In pharetra ultricies ligula ut maximus. Integer vulputate posuere dolor, et rutrum quam ultricies eu. Donec ultrices lacinia risus, sed gravida leo facilisis id. 
+  <img 
+    align="Center" 
+    alt="Dashboard 1" 
+    style="padding-right: 10px;" 
+    src="Dashboard/Leading/Pendentes_1.png" 
+  />
+
+#### Dashboard 6
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis velit lectus, tristique eget tempus ut, gravida eget ipsum. Integer id nunc tempus, congue orci sit amet, tincidunt justo. Maecenas elementum, orci non pulvinar fringilla, mi lorem efficitur ante, at placerat nibh nibh at ligula. Sed sed leo id libero fermentum blandit. Nulla id enim non dolor egestas dignissim. Phasellus fermentum ligula eget risus vulputate consequat.Suspendisse euismod dui odio, at pulvinar eros consectetur eget. 
+
+In pharetra ultricies ligula ut maximus. Integer vulputate posuere dolor, et rutrum quam ultricies eu. Donec ultrices lacinia risus, sed gravida leo facilisis id. 
+  <img 
+    align="Center" 
+    alt="Dashboard 1" 
+    style="padding-right: 10px;" 
+    src="Dashboard/Leading/IS_1.png" 
+  />
+
+
+#### Dashboard 7
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis velit lectus, tristique eget tempus ut, gravida eget ipsum. Integer id nunc tempus, congue orci sit amet, tincidunt justo. Maecenas elementum, orci non pulvinar fringilla, mi lorem efficitur ante, at placerat nibh nibh at ligula. Sed sed leo id libero fermentum blandit. Nulla id enim non dolor egestas dignissim. Phasellus fermentum ligula eget risus vulputate consequat.Suspendisse euismod dui odio, at pulvinar eros consectetur eget. 
+
+In pharetra ultricies ligula ut maximus. Integer vulputate posuere dolor, et rutrum quam ultricies eu. Donec ultrices lacinia risus, sed gravida leo facilisis id. 
+  <img 
+    align="Center" 
+    alt="Dashboard 1" 
+    style="padding-right: 10px;" 
+    src="Dashboard/Leading/IS_2.png" 
+  />
+
+
+#### Dashboard 8
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis velit lectus, tristique eget tempus ut, gravida eget ipsum. Integer id nunc tempus, congue orci sit amet, tincidunt justo. Maecenas elementum, orci non pulvinar fringilla, mi lorem efficitur ante, at placerat nibh nibh at ligula. Sed sed leo id libero fermentum blandit. Nulla id enim non dolor egestas dignissim. Phasellus fermentum ligula eget risus vulputate consequat.Suspendisse euismod dui odio, at pulvinar eros consectetur eget. 
+
+In pharetra ultricies ligula ut maximus. Integer vulputate posuere dolor, et rutrum quam ultricies eu. Donec ultrices lacinia risus, sed gravida leo facilisis id. 
+  <img 
+    align="Center" 
+    alt="Dashboard 1" 
+    style="padding-right: 10px;" 
+    src="Dashboard/Leading/IS_3.png" 
+  />
+
+### 📊 Cliente 2
