@@ -69,7 +69,7 @@ Na secção dos Artigos, embora mantenha exatamente a mesma estrutura das secç�
     src="Images/Vendas_10.png" 
   />
 
-<b/>
+<br/>
 
 
   
