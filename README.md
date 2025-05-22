@@ -17,17 +17,11 @@ Neste repositório, partilho alguns dos projetos que desenvolvi ao longo do meu 
 
 ### 📊 Cliente 1
 
-Durante a reunião inicial com os stakeholders, foram definidos diversos requisitos para a construção do dashboard. Ao longo do estágio, realizaram-se várias reuniões de acompanhamento para garantir que todas as necessidades fossem cumpridas.
+Durante as reuniões com os stakeholders, foram definidos os principais requisitos para o dashboard. Era essencial acompanhar a evolução das vendas ao longo dos anos, incluindo a percentagem de crescimento face ao ano anterior, bem como a análise mensal das vendas.
 
-Um dos principais objetivos era permitir o acompanhamento da evolução das vendas ao longo dos anos, bem como a percentagem de crescimento em relação ao ano anterior. Para além disso, foi também solicitado que fosse possível visualizar a evolução mensal das vendas, de forma a facilitar a análise de tendências ao longo do tempo.
+Também foi solicitado que fosse possível visualizar os dados por clientes, vendedores, famílias de produtos e fornecedores, além de permitir a seleção de um período de análise de três anos, com a opção de ativar o período homólogo.
 
-Outros requisitos incluíram a possibilidade de analisar as vendas por clientes, vendedores, famílias de produtos e fornecedores, proporcionando uma visão segmentada e detalhada dos resultados.
-
-Foi ainda definido que o intervalo de datas em análise deveria abranger um período de três anos, com a opção de ativar o período homólogo, caso fosse necessário comparar períodos equivalentes.
-
-Por fim, foi solicitado que todo o dashboard seguisse a paleta de cores da empresa, garantindo uniformidade visual com a identidade corporativa.
-
-A mesma lógica foi aplicada às áreas de compras e encomendas, assegurando coerência na estrutura e navegação entre os diferentes painéis.
+Todo o dashboard foi desenvolvido de acordo com a paleta de cores da empresa, e a mesma estrutura foi aplicada às áreas de compras e encomendas, garantindo consistência visual e funcional.
 
 
   <img 
