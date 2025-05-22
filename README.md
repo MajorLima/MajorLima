@@ -21,8 +21,11 @@ Durante as reuniões com os stakeholders, foram definidos os principais requisit
 Foi igualmente solicitado que os dados pudessem ser analisados por clientes, vendedores, famílias de produtos e fornecedores, além da possibilidade de selecionar um período de análise de três anos, com a opção de ativar o período homólogo, quando necessário.
 Todos os dashboards foram desenvolvidos de acordo com a paleta de cores da empresa, tendo a mesma estrutura sido aplicada às áreas de compras e encomendas, garantindo consistência visual e funcional em toda a solução.
 
+<a
+    />
+</a>
 
-
+<br/>
 
 
 #### Vendas - Vendedores
