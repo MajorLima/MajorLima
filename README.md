@@ -55,7 +55,7 @@ In pharetra ultricies ligula ut maximus. Integer vulputate posuere dolor, et rut
     align="Center" 
     alt="Dashboard 1" 
     style="padding-right: 10px;" 
-    src="Dashboard/Leading/Vendas_3.png" 
+    src="Dashboard/Leading/Vendas_4.png" 
   />
 
 
