@@ -118,9 +118,7 @@ Esta análise foi realizada tanto para os clientes como para os vendedores, prop
 
 
 ### Idade dos Saldos - Clientes
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis velit lectus, tristique eget tempus ut, gravida eget ipsum. Integer id nunc tempus, congue orci sit amet, tincidunt justo. Maecenas elementum, orci non pulvinar fringilla, mi lorem efficitur ante, at placerat nibh nibh at ligula. Sed sed leo id libero fermentum blandit. Nulla id enim non dolor egestas dignissim. Phasellus fermentum ligula eget risus vulputate consequat.Suspendisse euismod dui odio, at pulvinar eros consectetur eget. 
-
-In pharetra ultricies ligula ut maximus. Integer vulputate posuere dolor, et rutrum quam ultricies eu. Donec ultrices lacinia risus, sed gravida leo facilisis id. 
+No dashboard da Idade dos Saldos, foi solicitado o desenvolvimento de uma tabela por Cliente e por Vendedor, com o objetivo de acompanhar de forma mais direta os valores pendentes, organizados por intervalos de dias. Esta abordagem permite uma análise clara da antiguidade dos saldos em aberto, facilitando o controlo e a tomada de decisão relativamente à gestão de contas correntes.
 
 
   <img 
