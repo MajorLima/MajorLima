@@ -100,9 +100,8 @@ Na secção das Compras por Fornecedores, seguiu-se a mesma estrutura utilizada 
 
 
 ### Contas Correntes - Clientes
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis velit lectus, tristique eget tempus ut, gravida eget ipsum. Integer id nunc tempus, congue orci sit amet, tincidunt justo. Maecenas elementum, orci non pulvinar fringilla, mi lorem efficitur ante, at placerat nibh nibh at ligula. Sed sed leo id libero fermentum blandit. Nulla id enim non dolor egestas dignissim. Phasellus fermentum ligula eget risus vulputate consequat.Suspendisse euismod dui odio, at pulvinar eros consectetur eget. 
-
-In pharetra ultricies ligula ut maximus. Integer vulputate posuere dolor, et rutrum quam ultricies eu. Donec ultrices lacinia risus, sed gravida leo facilisis id. 
+Nas Contas Correntes, o principal objetivo era permitir a análise dos valores pendentes, acompanhando a sua evolução ao longo do tempo. Pretendia-se também conhecer a idade dos pendentes, classificando-os por intervalos (por exemplo: até 30 dias, entre 30 e 60 dias, etc.), e emitir um aviso visual sempre que o pendente ultrapassasse os 60 dias.
+Adicionalmente, foi implementado um acompanhamento detalhado das faturas e recibos emitidos, permitindo monitorizar com maior precisão os saldos pendentes ao longo dos anos.
 
 
   <img 
