@@ -22,7 +22,6 @@ Todos os dashboards foram desenvolvidos de acordo com a paleta de cores da empre
 
 ### Vendas - Dashboard Geral
 O Dashboard Geral fornece uma visão global das vendas, permitindo analisar a sua evolução anual e mensal. Apresenta também os Top 10 em vendas por clientes, vendedores e famílias de produtos, com todos os valores relativos ao último ano disponível na base de dados.
-
 Além disso, é possível analisar os dados de vendas com base num intervalo de datas selecionado, o que permite uma avaliação mais flexível e ajustada às necessidades da análise.
 
 
