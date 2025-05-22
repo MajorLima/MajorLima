@@ -12,7 +12,7 @@ Neste repositório, partilho alguns dos projetos que desenvolvi ao longo do meu 
 
 <br/>
 
-### 📊 Cliente 1
+## 📊 Cliente 1
 
 Durante as reuniões com os stakeholders, foram definidos os principais requisitos para os dashboards. Entre os aspetos mais relevantes, destacou-se a necessidade de acompanhar a evolução das vendas ao longo dos anos, incluindo a percentagem de crescimento face ao ano anterior, bem como a análise mensal das vendas.
 Foi igualmente solicitado que os dados pudessem ser analisados por clientes, vendedores, famílias de produtos e fornecedores, além da possibilidade de selecionar um período de análise de três anos, com a opção de ativar o período homólogo, quando necessário.
