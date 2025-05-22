@@ -95,6 +95,10 @@ Na secção das Compras por Fornecedores, seguiu-se a mesma estrutura utilizada 
     src="Images/Compras_4.png" 
   />
 
+<br/>
+
+
+
 #### Contas Correntes - Clientes
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis velit lectus, tristique eget tempus ut, gravida eget ipsum. Integer id nunc tempus, congue orci sit amet, tincidunt justo. Maecenas elementum, orci non pulvinar fringilla, mi lorem efficitur ante, at placerat nibh nibh at ligula. Sed sed leo id libero fermentum blandit. Nulla id enim non dolor egestas dignissim. Phasellus fermentum ligula eget risus vulputate consequat.Suspendisse euismod dui odio, at pulvinar eros consectetur eget. 
 
@@ -105,7 +109,7 @@ In pharetra ultricies ligula ut maximus. Integer vulputate posuere dolor, et rut
     align="Center" 
     alt="Dashboard 1" 
     style="padding-right: 10px;" 
-    src="Images/Compras_4.png" 
+    src="Images/CC_1.png" 
   />
 
 #### Idade dos Saldos - Clientes
