@@ -129,6 +129,8 @@ No dashboard da Idade dos Saldos, foi solicitado o desenvolvimento de uma tabela
   />
 
 
+<br/>
+
 
 
 ### 📊 Cliente 2
@@ -177,4 +179,3 @@ In pharetra ultricies ligula ut maximus. Integer vulputate posuere dolor, et rut
     src="Dashboard/Leading/IS_1.png" 
   />
 
-### 📊 Cliente 2
