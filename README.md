@@ -72,9 +72,7 @@ Na secção dos Artigos, embora mantenha exatamente a mesma estrutura das secç�
 
   
 ### Compras - Dashboard Geral
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis velit lectus, tristique eget tempus ut, gravida eget ipsum. Integer id nunc tempus, congue orci sit amet, tincidunt justo. Maecenas elementum, orci non pulvinar fringilla, mi lorem efficitur ante, at placerat nibh nibh at ligula. Sed sed leo id libero fermentum blandit. Nulla id enim non dolor egestas dignissim. Phasellus fermentum ligula eget risus vulputate consequat.Suspendisse euismod dui odio, at pulvinar eros consectetur eget. 
-
-In pharetra ultricies ligula ut maximus. Integer vulputate posuere dolor, et rutrum quam ultricies eu. Donec ultrices lacinia risus, sed gravida leo facilisis id. 
+No Dashboard Geral das Compras, seguiu-se a mesma lógica aplicada ao das vendas. É possível acompanhar a evolução das compras ao longo dos anos e dos meses, visualizar o Top 10 das compras por fornecedores e por famílias de produtos, bem como analisar a distribuição das compras por país, oferecendo uma visão abrangente e segmentada do processo de aquisição. 
 
 
   <img 
