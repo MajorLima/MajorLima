@@ -17,11 +17,11 @@ Neste repositório, partilho alguns dos projetos que desenvolvi ao longo do meu 
 
 ### 📊 Cliente 1
 
-Durante as reuniões com os stakeholders, foram definidos os principais requisitos para os dashboards. Era essencial acompanhar a evolução das vendas ao longo dos anos, incluindo a percentagem de crescimento face ao ano anterior, bem como a análise mensal das vendas.
+Durante as reuniões com os stakeholders, foram definidos os principais requisitos para os dashboards. Entre os aspetos mais relevantes, destacou-se a necessidade de acompanhar a evolução das vendas ao longo dos anos, incluindo a percentagem de crescimento face ao ano anterior, bem como a análise mensal das vendas.
 
-Também foi solicitado que fosse possível visualizar os dados por clientes, vendedores, famílias de produtos e fornecedores, além de permitir a seleção de um período de análise de três anos, com a opção de ativar o período homólogo.
+Foi igualmente solicitado que os dados pudessem ser analisados por clientes, vendedores, famílias de produtos e fornecedores, além da possibilidade de selecionar um período de análise de três anos, com a opção de ativar o período homólogo, quando necessário.
 
-Todos os dashboards foram desenvolvidos de acordo com a paleta de cores da empresa, e a mesma estrutura foi aplicada às áreas de compras e encomendas, garantindo consistência visual e funcional.
+Todos os dashboards foram desenvolvidos de acordo com a paleta de cores da empresa, tendo a mesma estrutura sido aplicada às áreas de compras e encomendas, garantindo consistência visual e funcional em toda a solução.
 
 
   <img 
