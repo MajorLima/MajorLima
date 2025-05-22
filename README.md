@@ -9,9 +9,6 @@ Durante o mestrado, participei em projetos práticos com ferramentas como SQL Se
 Realizei um estágio de 1040 horas, onde fui responsável por criar processos de ETL em SQL Server com dados do Primavera e desenvolver dashboards e reports em Power BI. O estágio foi bastante autónomo e desafiador, tive contacto direto com os stakeholders para definir requisitos e, o resultado final, foi a base do plugin que irão passar a disponibilizar aos clientes.
 
 Neste repositório, partilho alguns dos projetos que desenvolvi ao longo do meu percurso. 🚀
-<a
-    />
-</a>
 
 <br/>
 
