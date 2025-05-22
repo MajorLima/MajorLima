@@ -48,9 +48,7 @@ A mesma lógica foi aplicada à secção dos Clientes, permitindo uma análise i
 
 
 ### Vendas - Artigos 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis velit lectus, tristique eget tempus ut, gravida eget ipsum. Integer id nunc tempus, congue orci sit amet, tincidunt justo. Maecenas elementum, orci non pulvinar fringilla, mi lorem efficitur ante, at placerat nibh nibh at ligula. Sed sed leo id libero fermentum blandit. Nulla id enim non dolor egestas dignissim. Phasellus fermentum ligula eget risus vulputate consequat.Suspendisse euismod dui odio, at pulvinar eros consectetur eget. 
-
-In pharetra ultricies ligula ut maximus. Integer vulputate posuere dolor, et rutrum quam ultricies eu. Donec ultrices lacinia risus, sed gravida leo facilisis id. 
+Na secção dos Artigos, embora mantenha exatamente a mesma estrutura das secções anteriores, apresenta um diferencial importante: permite a visualização dos objetivos de vendas definidos e a análise da variação das vendas face a esses objetivos, proporcionando uma perspetiva adicional sobre o desempenho de cada família de produtos em relação ao que foi planeado.
 
 
   <img 
@@ -61,9 +59,7 @@ In pharetra ultricies ligula ut maximus. Integer vulputate posuere dolor, et rut
   />
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis velit lectus, tristique eget tempus ut, gravida eget ipsum. Integer id nunc tempus, congue orci sit amet, tincidunt justo. Maecenas elementum, orci non pulvinar fringilla, mi lorem efficitur ante, at placerat nibh nibh at ligula. Sed sed leo id libero fermentum blandit. Nulla id enim non dolor egestas dignissim. Phasellus fermentum ligula eget risus vulputate consequat.Suspendisse euismod dui odio, at pulvinar eros consectetur eget. 
 
-In pharetra ultricies ligula ut maximus. Integer vulputate posuere dolor, et rutrum quam ultricies eu. Donec ultrices lacinia risus, sed gravida leo facilisis id. 
 
 
   <img 
