@@ -17,15 +17,17 @@ Neste repositório, partilho alguns dos projetos que desenvolvi ao longo do meu 
 
 ### 📊 Cliente 1
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis velit lectus, tristique eget tempus ut, gravida eget ipsum. Integer id nunc tempus, congue orci sit amet, tincidunt justo. Maecenas elementum, orci non pulvinar fringilla, mi lorem efficitur ante, at placerat nibh nibh at ligula. Sed sed leo id libero fermentum blandit. Nulla id enim non dolor egestas dignissim. Phasellus fermentum ligula eget risus vulputate consequat.Suspendisse euismod dui odio, at pulvinar eros consectetur eget. 
+Durante a reunião inicial com os stakeholders, foram definidos diversos requisitos para a construção do dashboard. Ao longo do estágio, realizaram-se várias reuniões de acompanhamento para garantir que todas as necessidades fossem cumpridas.
 
-In pharetra ultricies ligula ut maximus. Integer vulputate posuere dolor, et rutrum quam ultricies eu. Donec ultrices lacinia risus, sed gravida leo facilisis id. 
+Um dos principais objetivos era permitir o acompanhamento da evolução das vendas ao longo dos anos, bem como a percentagem de crescimento em relação ao ano anterior. Para além disso, foi também solicitado que fosse possível visualizar a evolução mensal das vendas, de forma a facilitar a análise de tendências ao longo do tempo.
 
+Outros requisitos incluíram a possibilidade de analisar as vendas por clientes, vendedores, famílias de produtos e fornecedores, proporcionando uma visão segmentada e detalhada dos resultados.
 
-#### Vendas - Dashboard Geral
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis velit lectus, tristique eget tempus ut, gravida eget ipsum. Integer id nunc tempus, congue orci sit amet, tincidunt justo. Maecenas elementum, orci non pulvinar fringilla, mi lorem efficitur ante, at placerat nibh nibh at ligula. Sed sed leo id libero fermentum blandit. Nulla id enim non dolor egestas dignissim. Phasellus fermentum ligula eget risus vulputate consequat.Suspendisse euismod dui odio, at pulvinar eros consectetur eget. 
+Foi ainda definido que o intervalo de datas em análise deveria abranger um período de três anos, com a opção de ativar o período homólogo, caso fosse necessário comparar períodos equivalentes.
 
-In pharetra ultricies ligula ut maximus. Integer vulputate posuere dolor, et rutrum quam ultricies eu. Donec ultrices lacinia risus, sed gravida leo facilisis id. 
+Por fim, foi solicitado que todo o dashboard seguisse a paleta de cores da empresa, garantindo uniformidade visual com a identidade corporativa.
+
+A mesma lógica foi aplicada às áreas de compras e encomendas, assegurando coerência na estrutura e navegação entre os diferentes painéis.
 
 
   <img 
