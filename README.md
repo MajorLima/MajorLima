@@ -144,7 +144,7 @@ Para o Cliente 2, foi solicitada exatamente a mesma estrutura utilizada para o C
     style="padding-right: 10px;" 
     src="Dashboard/Leading/Vendas_1.png"
   />
-### Vendas - 
+### Vendas - Clientes
 
 
   <img 
@@ -155,7 +155,7 @@ Para o Cliente 2, foi solicitada exatamente a mesma estrutura utilizada para o C
   />
 
 
-#### Vendas - 
+#### Contas Correntes - Clientes
 
 
 
@@ -166,7 +166,7 @@ Para o Cliente 2, foi solicitada exatamente a mesma estrutura utilizada para o C
     src="Dashboard/Leading/Pendentes_1.png" 
   />
 
-#### Vendas - 
+#### Idade dos Saldos - Clientes
 
 
 
