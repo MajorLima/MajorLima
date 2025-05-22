@@ -134,7 +134,7 @@ No dashboard da Idade dos Saldos, foi solicitado o desenvolvimento de uma tabela
 
 ### 📊 Cliente 2
 
-#### Dashboard 1
+### Vendas - Dashboard Geral
 Para o Cliente 2, foi solicitada exatamente a mesma estrutura utilizada para o Cliente 1, com algumas diferenças específicas. Os detalhes foram apresentados por cliente, projetos e responsável. Além disso, foi pedido que o dashboard seguisse a paleta de cores da empresa, garantindo uma identidade visual alinhada à imagem da organização
 
 
@@ -144,10 +144,9 @@ Para o Cliente 2, foi solicitada exatamente a mesma estrutura utilizada para o C
     style="padding-right: 10px;" 
     src="Dashboard/Leading/Vendas_1.png"
   />
-#### Dashboard 2
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis velit lectus, tristique eget tempus ut, gravida eget ipsum. Integer id nunc tempus, congue orci sit amet, tincidunt justo. Maecenas elementum, orci non pulvinar fringilla, mi lorem efficitur ante, at placerat nibh nibh at ligula. Sed sed leo id libero fermentum blandit. Nulla id enim non dolor egestas dignissim. Phasellus fermentum ligula eget risus vulputate consequat.Suspendisse euismod dui odio, at pulvinar eros consectetur eget. 
+### Vendas - 
 
-In pharetra ultricies ligula ut maximus. Integer vulputate posuere dolor, et rutrum quam ultricies eu. Donec ultrices lacinia risus, sed gravida leo facilisis id. 
+
   <img 
     align="Center" 
     alt="Dashboard 1" 
@@ -156,10 +155,10 @@ In pharetra ultricies ligula ut maximus. Integer vulputate posuere dolor, et rut
   />
 
 
-#### Dashboard 5
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis velit lectus, tristique eget tempus ut, gravida eget ipsum. Integer id nunc tempus, congue orci sit amet, tincidunt justo. Maecenas elementum, orci non pulvinar fringilla, mi lorem efficitur ante, at placerat nibh nibh at ligula. Sed sed leo id libero fermentum blandit. Nulla id enim non dolor egestas dignissim. Phasellus fermentum ligula eget risus vulputate consequat.Suspendisse euismod dui odio, at pulvinar eros consectetur eget. 
+#### Vendas - 
 
-In pharetra ultricies ligula ut maximus. Integer vulputate posuere dolor, et rutrum quam ultricies eu. Donec ultrices lacinia risus, sed gravida leo facilisis id. 
+
+
   <img 
     align="Center" 
     alt="Dashboard 1" 
@@ -167,10 +166,10 @@ In pharetra ultricies ligula ut maximus. Integer vulputate posuere dolor, et rut
     src="Dashboard/Leading/Pendentes_1.png" 
   />
 
-#### Dashboard 6
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis velit lectus, tristique eget tempus ut, gravida eget ipsum. Integer id nunc tempus, congue orci sit amet, tincidunt justo. Maecenas elementum, orci non pulvinar fringilla, mi lorem efficitur ante, at placerat nibh nibh at ligula. Sed sed leo id libero fermentum blandit. Nulla id enim non dolor egestas dignissim. Phasellus fermentum ligula eget risus vulputate consequat.Suspendisse euismod dui odio, at pulvinar eros consectetur eget. 
+#### Vendas - 
 
-In pharetra ultricies ligula ut maximus. Integer vulputate posuere dolor, et rutrum quam ultricies eu. Donec ultrices lacinia risus, sed gravida leo facilisis id. 
+
+
   <img 
     align="Center" 
     alt="Dashboard 1" 
