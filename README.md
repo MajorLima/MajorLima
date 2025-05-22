@@ -13,9 +13,6 @@ Neste repositório, partilho alguns dos projetos que desenvolvi ao longo do meu 
     />
 </a>
 
-
-
-<br/>
 <br/>
 
 ### 📊 Cliente 1
