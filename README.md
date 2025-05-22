@@ -142,7 +142,7 @@ Para o Cliente 2, foi solicitada exatamente a mesma estrutura utilizada para o C
     align="Center" 
     alt="Dashboard 1" 
     style="padding-right: 10px;" 
-    src="Dashboard/Leading/Vendas_1.png"
+    src="Images/CVendas_1.png"
   />
 ### Vendas - Clientes
 
@@ -151,7 +151,7 @@ Para o Cliente 2, foi solicitada exatamente a mesma estrutura utilizada para o C
     align="Center" 
     alt="Dashboard 1" 
     style="padding-right: 10px;" 
-    src="Dashboard/Leading/Vendas_4.png" 
+    src="Images/CVendas_4.png" 
   />
 
 
@@ -163,7 +163,7 @@ Para o Cliente 2, foi solicitada exatamente a mesma estrutura utilizada para o C
     align="Center" 
     alt="Dashboard 1" 
     style="padding-right: 10px;" 
-    src="Dashboard/Leading/Pendentes_1.png" 
+    src="Images/CPendentes_1.png" 
   />
 
 #### Idade dos Saldos - Clientes
@@ -174,6 +174,6 @@ Para o Cliente 2, foi solicitada exatamente a mesma estrutura utilizada para o C
     align="Center" 
     alt="Dashboard 1" 
     style="padding-right: 10px;" 
-    src="Dashboard/Leading/IS_1.png" 
+    src="Images/CIS_1.png" 
   />
 
