@@ -17,7 +17,7 @@ Neste repositório, partilho alguns dos projetos que desenvolvi ao longo do meu 
 
 ### 📊 Cliente 1
 
-#### Dashboard 1
+#### Vendas - Dashboard Geral
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis velit lectus, tristique eget tempus ut, gravida eget ipsum. Integer id nunc tempus, congue orci sit amet, tincidunt justo. Maecenas elementum, orci non pulvinar fringilla, mi lorem efficitur ante, at placerat nibh nibh at ligula. Sed sed leo id libero fermentum blandit. Nulla id enim non dolor egestas dignissim. Phasellus fermentum ligula eget risus vulputate consequat.Suspendisse euismod dui odio, at pulvinar eros consectetur eget. 
 
 In pharetra ultricies ligula ut maximus. Integer vulputate posuere dolor, et rutrum quam ultricies eu. Donec ultrices lacinia risus, sed gravida leo facilisis id. 
@@ -25,9 +25,9 @@ In pharetra ultricies ligula ut maximus. Integer vulputate posuere dolor, et rut
     align="Center" 
     alt="Dashboard 1" 
     style="padding-right: 10px;" 
-    src="Dashboard/Leading/Vendas_1.png"
+    src="Images/Vendas_1.png"
   />
-#### Dashboard 2
+#### Vendas - Vendedores
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis velit lectus, tristique eget tempus ut, gravida eget ipsum. Integer id nunc tempus, congue orci sit amet, tincidunt justo. Maecenas elementum, orci non pulvinar fringilla, mi lorem efficitur ante, at placerat nibh nibh at ligula. Sed sed leo id libero fermentum blandit. Nulla id enim non dolor egestas dignissim. Phasellus fermentum ligula eget risus vulputate consequat.Suspendisse euismod dui odio, at pulvinar eros consectetur eget. 
 
 In pharetra ultricies ligula ut maximus. Integer vulputate posuere dolor, et rutrum quam ultricies eu. Donec ultrices lacinia risus, sed gravida leo facilisis id. 
@@ -35,11 +35,11 @@ In pharetra ultricies ligula ut maximus. Integer vulputate posuere dolor, et rut
     align="Center" 
     alt="Dashboard 1" 
     style="padding-right: 10px;" 
-    src="Dashboard/Leading/Vendas_4.png" 
+    src="Images/Vendas_4.png" 
   />
 
 
-#### Dashboard 5
+#### Vendas - Artigos 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis velit lectus, tristique eget tempus ut, gravida eget ipsum. Integer id nunc tempus, congue orci sit amet, tincidunt justo. Maecenas elementum, orci non pulvinar fringilla, mi lorem efficitur ante, at placerat nibh nibh at ligula. Sed sed leo id libero fermentum blandit. Nulla id enim non dolor egestas dignissim. Phasellus fermentum ligula eget risus vulputate consequat.Suspendisse euismod dui odio, at pulvinar eros consectetur eget. 
 
 In pharetra ultricies ligula ut maximus. Integer vulputate posuere dolor, et rutrum quam ultricies eu. Donec ultrices lacinia risus, sed gravida leo facilisis id. 
@@ -47,10 +47,10 @@ In pharetra ultricies ligula ut maximus. Integer vulputate posuere dolor, et rut
     align="Center" 
     alt="Dashboard 1" 
     style="padding-right: 10px;" 
-    src="Dashboard/Leading/Pendentes_1.png" 
+    src="Images/Vendas_9.png" 
   />
 
-#### Dashboard 6
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis velit lectus, tristique eget tempus ut, gravida eget ipsum. Integer id nunc tempus, congue orci sit amet, tincidunt justo. Maecenas elementum, orci non pulvinar fringilla, mi lorem efficitur ante, at placerat nibh nibh at ligula. Sed sed leo id libero fermentum blandit. Nulla id enim non dolor egestas dignissim. Phasellus fermentum ligula eget risus vulputate consequat.Suspendisse euismod dui odio, at pulvinar eros consectetur eget. 
 
 In pharetra ultricies ligula ut maximus. Integer vulputate posuere dolor, et rutrum quam ultricies eu. Donec ultrices lacinia risus, sed gravida leo facilisis id. 
@@ -58,8 +58,54 @@ In pharetra ultricies ligula ut maximus. Integer vulputate posuere dolor, et rut
     align="Center" 
     alt="Dashboard 1" 
     style="padding-right: 10px;" 
-    src="Dashboard/Leading/IS_1.png" 
+    src="Images/Vendas_10.png" 
   />
+
+  
+#### Compras - Dashboard Geral
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis velit lectus, tristique eget tempus ut, gravida eget ipsum. Integer id nunc tempus, congue orci sit amet, tincidunt justo. Maecenas elementum, orci non pulvinar fringilla, mi lorem efficitur ante, at placerat nibh nibh at ligula. Sed sed leo id libero fermentum blandit. Nulla id enim non dolor egestas dignissim. Phasellus fermentum ligula eget risus vulputate consequat.Suspendisse euismod dui odio, at pulvinar eros consectetur eget. 
+
+In pharetra ultricies ligula ut maximus. Integer vulputate posuere dolor, et rutrum quam ultricies eu. Donec ultrices lacinia risus, sed gravida leo facilisis id. 
+  <img 
+    align="Center" 
+    alt="Dashboard 1" 
+    style="padding-right: 10px;" 
+    src="Images/Compras_1.png" 
+  />
+
+#### Compras - Fornecedores
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis velit lectus, tristique eget tempus ut, gravida eget ipsum. Integer id nunc tempus, congue orci sit amet, tincidunt justo. Maecenas elementum, orci non pulvinar fringilla, mi lorem efficitur ante, at placerat nibh nibh at ligula. Sed sed leo id libero fermentum blandit. Nulla id enim non dolor egestas dignissim. Phasellus fermentum ligula eget risus vulputate consequat.Suspendisse euismod dui odio, at pulvinar eros consectetur eget. 
+
+In pharetra ultricies ligula ut maximus. Integer vulputate posuere dolor, et rutrum quam ultricies eu. Donec ultrices lacinia risus, sed gravida leo facilisis id. 
+  <img 
+    align="Center" 
+    alt="Dashboard 1" 
+    style="padding-right: 10px;" 
+    src="Images/Compras_4.png" 
+  />
+
+#### Contas Correntes - Clientes
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis velit lectus, tristique eget tempus ut, gravida eget ipsum. Integer id nunc tempus, congue orci sit amet, tincidunt justo. Maecenas elementum, orci non pulvinar fringilla, mi lorem efficitur ante, at placerat nibh nibh at ligula. Sed sed leo id libero fermentum blandit. Nulla id enim non dolor egestas dignissim. Phasellus fermentum ligula eget risus vulputate consequat.Suspendisse euismod dui odio, at pulvinar eros consectetur eget. 
+
+In pharetra ultricies ligula ut maximus. Integer vulputate posuere dolor, et rutrum quam ultricies eu. Donec ultrices lacinia risus, sed gravida leo facilisis id. 
+  <img 
+    align="Center" 
+    alt="Dashboard 1" 
+    style="padding-right: 10px;" 
+    src="Images/Compras_4.png" 
+  />
+
+#### Idade dos Saldos - Clientes
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis velit lectus, tristique eget tempus ut, gravida eget ipsum. Integer id nunc tempus, congue orci sit amet, tincidunt justo. Maecenas elementum, orci non pulvinar fringilla, mi lorem efficitur ante, at placerat nibh nibh at ligula. Sed sed leo id libero fermentum blandit. Nulla id enim non dolor egestas dignissim. Phasellus fermentum ligula eget risus vulputate consequat.Suspendisse euismod dui odio, at pulvinar eros consectetur eget. 
+
+In pharetra ultricies ligula ut maximus. Integer vulputate posuere dolor, et rutrum quam ultricies eu. Donec ultrices lacinia risus, sed gravida leo facilisis id. 
+  <img 
+    align="Center" 
+    alt="Dashboard 1" 
+    style="padding-right: 10px;" 
+    src="Images/IS_1.png" 
+  />
+
 
 
 
