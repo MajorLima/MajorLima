@@ -34,7 +34,7 @@ Além disso, é possível analisar os dados de vendas com base num intervalo de 
 
   
 ### Vendas - Vendedores
-Na secção dos Vendedores, é possível aprofundar a análise das informações apresentadas de forma global no Dashboard Geral. O utilizador pode selecionar o top desejado (5, 10, ..., 50 ou todos os vendedores) e é tamvbém apresentada a variação das vendas de cada vendedor no ano selecionado face ao ano anterior, bem como os valores exatos de vendas de ambos os anos numa tabela detalhada.
+Na secção dos Vendedores, é possível aprofundar a análise das informações apresentadas de forma global no Dashboard Geral. O utilizador pode selecionar o top desejado (5, 10, ..., 50 ou todos os vendedores) e é também apresentada a variação das vendas de cada vendedor no ano selecionado face ao ano anterior, bem como os valores exatos de vendas de ambos os anos numa tabela detalhada.
 Adicionalmente, é possiível visualizar a percentagem que esse top representa no total das vendas.
 A mesma lógica foi aplicada à secção dos Clientes, permitindo uma análise igualmente aprofundada e comparativa.
 
