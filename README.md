@@ -13,24 +13,7 @@ Neste repositório, partilho alguns dos projetos que desenvolvi ao longo do meu 
     />
 </a>
 
-### 🤖 Linguagens e Tecnologias
 
-<img 
-    align="left" 
-    alt="SQL Server"
-    title="SQL Server" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="Images/microsoft_sql_server-logo_brandlogos.net_wykhq.png" 
-/>
-<img 
-    align="left" 
-    alt="Power BI" 
-    title="Power BI"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="Images/icons8-poder-bi-2021-480.png" 
-/>
 
 <br/>
 <br/>
