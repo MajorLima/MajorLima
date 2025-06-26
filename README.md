@@ -6,7 +6,7 @@ Olá! Sou a Ayrise, licenciada em Gestão e atualmente a concluir o mestrado em 
 Abaixo encontram-se alguns dos projetos desenvolvidos durante o estágio.
 <br/>
 
-## Power BI Service
+## Power BI Service - Estágio
 ### Cliente 1
 
 <p>
@@ -47,7 +47,7 @@ Abaixo encontram-se alguns dos projetos desenvolvidos durante o estágio.
 
 
 ## RPA - Automatização do Processo
-### Projeto - Processamento das Faturas 
+### Projeto - Processamento de Faturas 
 
 <p>
   <img src="Images/As-Is.png" alt="Dashboard 2" width="49%"/>
