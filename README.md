@@ -67,10 +67,6 @@ Abaixo encontram-se alguns dos projetos desenvolvidos durante o estágio.
   <img src="Images/Balanceado.png" alt="Dashboard Compras 1" width="48%"/>
 </p>
 
-<p>
-  <img src="Images/RF.png" alt="Dashboard Compras 2" width="48%"/>
-  <img src="Images/RFA.png" alt="Dashboard CC" width="44%"/>
-</p>
 
 <p>
   
