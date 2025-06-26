@@ -3,7 +3,6 @@
 **`Data Analyst | Business Intelligence`**
 
 Olá! Sou a Ayrise, licenciada em Gestão e atualmente a concluir o mestrado em Ciência de Dados no Politécnico de Leiria.🚀
-
 <br/>
 
 ## 📊 Cliente 1
