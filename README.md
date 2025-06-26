@@ -46,6 +46,13 @@ Abaixo encontram-se alguns dos projetos desenvolvidos durante o estágio.
 
 
 
+## RPA - Automatização do Processo
+### Projeto - Processamento das Faturas 
+
+<p>
+  <img src="Images/As-Is.png" alt="Dashboard 2" width="49%"/>
+  <img src="Images/TO-BE.png" alt="Dashboard Compras 1" width="48%"/>
+</p>
 
 
 
