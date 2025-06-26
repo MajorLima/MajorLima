@@ -13,13 +13,6 @@ Olá! Sou a Ayrise, licenciada em Gestão e atualmente a concluir o mestrado em 
     src="Images/Vendas_1.png"
   />
 
-  
-### Vendas - Vendedores
-Na secção dos Vendedores, é possível aprofundar a análise das informações apresentadas de forma global no Dashboard Geral. O utilizador pode selecionar o top desejado (5, 10, ..., 50 ou todos os vendedores) e é também apresentada a variação das vendas de cada vendedor no ano selecionado face ao ano anterior, bem como os valores exatos de vendas de ambos os anos numa tabela detalhada.
-Adicionalmente, é possível visualizar a percentagem que esse top representa no total das vendas.
-A mesma lógica foi aplicada à secção dos Clientes, permitindo uma análise igualmente aprofundada e comparativa.
-
-
   <img 
     align="Center" 
     alt="Dashboard 1" 
@@ -27,21 +20,12 @@ A mesma lógica foi aplicada à secção dos Clientes, permitindo uma análise i
     src="Images/Vendas_4.png" 
   />
 
-
-### Vendas - Artigos 
-Na secção dos Artigos, embora mantenha exatamente a mesma estrutura das secções anteriores, apresenta um diferencial importante: permite a visualização dos objetivos de vendas definidos e a análise da variação das vendas face a esses objetivos, proporcionando uma perspetiva adicional sobre o desempenho de cada família de produtos em relação ao que foi planeado.
-
-
   <img 
     align="Center" 
     alt="Dashboard 1" 
     style="padding-right: 10px;" 
     src="Images/Vendas_9.png" 
   />
-
-
-
-
 
   <img 
     align="Center" 
