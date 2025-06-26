@@ -5,7 +5,8 @@
 Olá! Sou a Ayrise, licenciada em Gestão e atualmente a concluir o mestrado em Ciência de Dados no Politécnico de Leiria.🚀
 <br/>
 
-## 📊 Power BI (Service)
+## 📊 Power BI (Service) - Clientes
+### Vendas
   <img 
     align="Center" 
     alt="Dashboard 1" 
@@ -37,20 +38,13 @@ Olá! Sou a Ayrise, licenciada em Gestão e atualmente a concluir o mestrado em 
 <br/>
 
   
-### Compras - Dashboard Geral
-No Dashboard Geral das Compras, seguiu-se a mesma lógica aplicada ao das vendas. É possível acompanhar a evolução das compras ao longo dos anos e dos meses, visualizar o Top 10 das compras por fornecedores e por famílias de produtos, bem como analisar a distribuição das compras por país, oferecendo uma visão abrangente e segmentada do processo de aquisição. 
-
-
+### Compras
   <img 
     align="Center" 
     alt="Dashboard 1" 
     style="padding-right: 10px;" 
     src="Images/Compras_1.png" 
   />
-
-### Compras - Fornecedores
-Na secção das Compras por Fornecedores, seguiu-se a mesma estrutura utilizada na análise das vendas, permitindo uma comparação direta e coerente entre ambas as áreas. O mesmo se aplicou à secção dos Artigos, onde foi mantida a estrutura previamente definida, assegurando consistência na apresentação e interpretação dos dados.
-
 
   <img 
     align="Center" 
@@ -61,13 +55,7 @@ Na secção das Compras por Fornecedores, seguiu-se a mesma estrutura utilizada 
 
 <br/>
 
-
-
-### Contas Correntes - Clientes
-Na secção das Contas Correntes, o principal objetivo era permitir a análise dos valores pendentes, acompanhando a sua evolução ao longo do tempo. Pretendia-se igualmente identificar a idade dos pendentes, classificando-os por intervalos de tempo (por exemplo: até 30 dias, entre 30 e 60 dias, etc.), com a emissão de um aviso visual sempre que o pendente ultrapassasse os 60 dias.
-Adicionalmente, foi implementado um acompanhamento detalhado das faturas e recibos emitidos, permitindo uma monitorização mais precisa dos saldos pendentes ao longo dos anos.
-Esta análise foi realizada tanto para os clientes como para os vendedores, proporcionando uma visão abrangente da situação financeira.
-
+### Contas Correntes 
 
   <img 
     align="Center" 
