@@ -5,19 +5,7 @@
 Olá! Sou a Ayrise, licenciada em Gestão e atualmente a concluir o mestrado em Ciência de Dados no Politécnico de Leiria.🚀
 <br/>
 
-## 📊 Cliente 1
-
-Durante as reuniões com os stakeholders, foram definidos os principais requisitos para os dashboards. Entre os aspetos mais relevantes, destacou-se a necessidade de acompanhar a evolução das vendas ao longo dos anos, incluindo a percentagem de crescimento face ao ano anterior, bem como a análise mensal das vendas.
-Foi igualmente solicitado que os dados pudessem ser analisados por clientes, vendedores, famílias de produtos e fornecedores, além da possibilidade de selecionar um período de análise de três anos, com a opção de ativar o período homólogo, quando necessário.
-Todos os dashboards foram desenvolvidos de acordo com a paleta de cores da empresa, tendo a mesma estrutura sido aplicada às áreas de compras e encomendas, garantindo consistência visual e funcional em toda a solução.
-
-
-
-### Vendas - Dashboard Geral
-O Dashboard Geral fornece uma visão global das vendas, permitindo analisar a sua evolução anual e mensal. Apresenta também os Top 10 em vendas por clientes, vendedores e famílias de produtos, com todos os valores relativos ao último ano disponível na base de dados.
-Além disso, é possível analisar os dados de vendas com base num intervalo de datas selecionado, o que permite uma avaliação mais flexível e ajustada às necessidades da análise.
-
-
+## 📊 Power BI (Service)
   <img 
     align="Center" 
     alt="Dashboard 1" 
