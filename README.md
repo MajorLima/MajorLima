@@ -6,6 +6,7 @@ Olá! Sou a Ayrise, licenciada em Gestão e atualmente a concluir o mestrado em 
 Abaixo encontram-se alguns dos projetos desenvolvidos ao longo do meu percurso.
 <br/>
 
+## Power BI Service
 ### Cliente 1
 
 <p>
