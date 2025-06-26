@@ -18,20 +18,6 @@ Olá! Sou a Ayrise, licenciada em Gestão e atualmente a concluir o mestrado em 
     align="Center" 
     alt="Dashboard 1" 
     style="padding-right: 10px;" 
-    src="Images/Vendas_4.png" 
-  />
-
-  <img 
-    align="Center" 
-    alt="Dashboard 1" 
-    style="padding-right: 10px;" 
-    src="Images/Vendas_9.png" 
-  />
-
-  <img 
-    align="Center" 
-    alt="Dashboard 1" 
-    style="padding-right: 10px;" 
     src="Images/Vendas_10.png" 
   />
 
