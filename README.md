@@ -6,7 +6,7 @@ Olá! Sou a Ayrise, licenciada em Gestão e atualmente a concluir o mestrado em 
 Abaixo encontram-se alguns dos projetos desenvolvidos durante o estágio.
 <br/>
 
-## Power BI Service - Estágio
+## Power BI Service 
 ### Cliente 1
 
 <p>
