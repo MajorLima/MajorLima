@@ -6,7 +6,7 @@ Hi, I'm Ayrise, I have a degree in Management and I'm currently completing a mas
 <br/>
 
 ## Power BI Service 
-### Cliente 1
+### Client 1
 
 <p>
   <img src="Images/Vendas_1.png" alt="Dashboard 1" width="48%"/>
@@ -30,7 +30,7 @@ Hi, I'm Ayrise, I have a degree in Management and I'm currently completing a mas
 
 
 
-### 📊 Cliente 2
+### 📊 Client 2
 
 <p>
   <img src="Images/CVendas_1.png" alt="Dashboard Vendas Geral" width="48%"/>
