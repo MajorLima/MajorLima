@@ -46,50 +46,6 @@ Abaixo encontram-se alguns dos projetos desenvolvidos durante o estágio.
 
 
 
-## RPA - Automatização do Processo
-### Projeto - Processamento de Faturas 
-
-<p>
-  <img src="Images/As-Is.png" alt="Dashboard 2" width="49%"/>
-  <img src="Images/TO-BE.png" alt="Dashboard Compras 1" width="48%"/>
-</p>
-
-
-
-
-
-
-## Data Mining
-### Projeto - Modelos de classificação que possam caracterizar um indivíduo relativamente à contração de Diabetes
-
-<p>
-  <img src="Images/Desbalanceado.png" alt="Dashboard 2" width="45.5%"/>
-  <img src="Images/Balanceado.png" alt="Dashboard Compras 1" width="48%"/>
-</p>
-
-
-<p>
-  
-  <img src="Images/Tb.png" alt="Dashboard IS" width="48%"/>
-</p>
-
-<br/>
-
-
-
-
-## Métodos de Regressão e Previsão
-### Projeto - 
-
-
-
-
-## Análise Exploratória de Dados
-### Projeto - 
-
-
-
-
 
 
 
