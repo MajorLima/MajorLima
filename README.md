@@ -2,8 +2,7 @@
 
 **`Data Analyst | Business Intelligence`**
 
-Olá! Sou a Ayrise, licenciada em Gestão e atualmente a concluir o mestrado em Ciência de Dados no Politécnico de Leiria.
-Abaixo encontram-se alguns dos projetos desenvolvidos durante o estágio.
+Hi, I'm Ayrise, I have a degree in Management and I'm currently completing a master's degree in Data Science at the Polytechnic of Leiria. Below are some of the projects I worked on during my internship.
 <br/>
 
 ## Power BI Service 
