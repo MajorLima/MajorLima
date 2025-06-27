@@ -73,8 +73,24 @@ Abaixo encontram-se alguns dos projetos desenvolvidos durante o estágio.
   <img src="Images/Tb.png" alt="Dashboard IS" width="48%"/>
 </p>
 
-
-
-
 <br/>
+
+
+
+
+## Métodos de Regressão e Previsão
+### Projeto - 
+
+
+
+
+## Análise Exploratória de Dados
+### Projeto - 
+
+
+
+
+
+
+
 
