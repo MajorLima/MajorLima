@@ -2,7 +2,7 @@
 
 **`Data Analyst | Business Intelligence`**
 
-Hi, I am Ayrise, I have a degree in Management and I'm currently completing a master's degree in Data Science at the Polytechnic School of Leiria. Below are some of the projects I worked on during my internship at a consulting company. These projects were end-to-end, so I was given responsibility for everything from ETL to the creation and publication of dashboards in Power BI Service.
+Hi, I am Ayrise, I have a degree in Management and I'm currently completing a master's degree in Data Science at the Polytechnic of Leiria. Below are some of the projects I worked on during my internship at a consulting company. These projects were end-to-end, so I was given responsibility for everything from ETL to the creation and publication of dashboards in Power BI Service.
 <br/>
 
 ## Power BI Service 
